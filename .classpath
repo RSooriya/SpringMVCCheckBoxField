@@ -5,6 +5,8 @@
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
+
+			//for the sake of editing
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
